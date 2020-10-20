@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/programer.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
 <h3 align="center">You are visitor</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/sijin-raj/count.svg" alt="vistor count" height="50" /></p>
 <hr>
 ### Few things about me 
 
