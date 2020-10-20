@@ -1,8 +1,7 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
-<h1 align="center">Hey 👋, I'm Sijin</h1>
+<h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1>
 <p align="center">A third year undergrad at KIT-Kalaignarkarunanidhi Institute of Technology. Actively learning and acquiring on demand skills.</p>
 <p align="center">
-
 <a href="www.linkedin.com/in/Sijin-Raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/Sijin-Raj
 " height="30" width="30" /></a>
 <a href="https://www.facebook.com/SijinRajsr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/SijinRajsr/" height="30" width="30" /></a>
@@ -10,7 +9,7 @@
 </p>
 <div align="center"><hr width=50% size=1% Align="center"></div>
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
+  <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/programer.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/vikramoff24/count.svg" alt="vistor count" height="50" /></p>
 <hr>
@@ -44,14 +43,13 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
-![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
+
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
 
 <hr>
 
-<p align="center"><img height="30" src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
+<p align="center"><img height="30" src= "https://i.pinimg.com/originals/69/68/26/6968265e0281619c40b44db4b26c0ade.gif"</p>
 <div align="center"><hr width=13%></div>
 
 <div align="center"><hr width=3%></div>
