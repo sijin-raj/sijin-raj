@@ -42,18 +42,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
 <hr>
-<a href="https://github.com/sijin-raj/hacktoberfest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-raj&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/sijin-raj/sijin-resume01">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/sijin-raj/Stuff-Box">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sijin-raj&repo=lightningsarp.github.io&theme=light" />
-</a>
-<a href="https://github.com/sijin-raj/phising-instagram1">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sijin-raj&repo=Ctf-Players&theme=light" />
-</a>
+
 
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
