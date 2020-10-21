@@ -48,10 +48,10 @@
 <a href="https://github.com/sijin-raj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/sijin-raj/sijin-raj.github.io">
+<a href="https://github.com/sijin-raj/sijin-resume01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sijin-raj&repo=lightningsarp.github.io&theme=light" />
 </a>
-<a href="https://github.com/sijin-raj/Ctf-Players">
+<a href="https://github.com/sijin-raj/hacktoberfest">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sijin-raj&repo=Ctf-Players&theme=light" />
 </a>
 
