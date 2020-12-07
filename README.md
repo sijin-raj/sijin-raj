@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/sijin-raj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sijin-raj/" height="30" width="30" /></a>
 <a href="https://www.facebook.com/SijinRajsr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/SijinRajsr/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/sijin__raj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sijin__raj/" height="30" width="30" /></a>
+  <a href="https://dev.to/sijinraj">
+  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sijin raj's DEV Profile" height="30" width="30">
+</a>
+        
 </p>
 <div align="center"><hr width=50% size=1% Align="center"></div>
 <div align="center">
