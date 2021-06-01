@@ -1,4 +1,5 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1>
 <p align="center"></p>
 <p align="center">
@@ -46,10 +47,41 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 <br>
 <hr>
+<hr />
 
-
-
-*NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/Kitncdrc">
+              <img src="https://avatars.githubusercontent.com/u/75631289?s=400&u=7692d18f92cd5cad23910d81c5edb94bb8bacbd5&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&count_private=true&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-raj&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303">
+<!--       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303)](https://git.io/streak-stats) -->
+    </td>
+  </tr>
+</table>
 
 <hr>
 
