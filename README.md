@@ -1,6 +1,6 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1>
+<img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/Welcome.gif"/>
+<!-- <h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1> -->
 <p align="center"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sijin-raj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sijin-raj/"  height="30" width="30" /></a>
@@ -13,7 +13,7 @@
 </p>
 <div align="center"><hr width=50% size=1% Align="center"></div>
 <div align="center">
-  <img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/profile.png" align="center" height=70% width=60%/><hr width=50% size=1% Align="center"></div>
+<!--   <img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/profile.png" align="center" height=70% width=60%/><hr width=50% size=1% Align="center"></div> -->
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/sijin-raj/count.svg" alt="vistor count" height="50" /></p>
 <hr>
