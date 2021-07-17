@@ -1,5 +1,5 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
-<img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/Welcome.gif"/>
+<img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/Welcome(1).gif"/>
 <!-- <h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1> -->
 <p align="center"></p>
 <p align="center">
