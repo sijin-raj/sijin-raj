@@ -45,11 +45,6 @@
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/SurPathHub">
-              <img src="https://avatars.githubusercontent.com/u/75564428?s=200&v=4" height="50" width="50" />
-            </a>
-          </td>
-          <td align="center">
             <a href="https://github.com/EddieHubCommunity">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" height="50" width="50" />
             </a>
