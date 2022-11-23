@@ -17,6 +17,9 @@
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/sijin-raj/count.svg" alt="vistor count" height="50" /></p>
 <hr>
+  
+  [![Check out sijin-raj's profile on stardev.io](https://stardev.io/developers/sijin-raj/badge/languages/global.svg)](https://stardev.io/developers/sijin-raj)
+  
 ### Few things about me 
 
 - 🔭 I’m currently working on <b>Front End Developer </b>
