@@ -43,8 +43,8 @@
       <table>
         <tr>
            <td align="center">
-            <a href="https://github.com/Kitncdrc">
-              <img src="https://avatars.githubusercontent.com/u/75631289?s=400&u=7692d18f92cd5cad23910d81c5edb94bb8bacbd5&v=4" height="50" width="50" />
+            <a href="https://github.com/devmeet-community">
+              <img src="https://avatars.githubusercontent.com/u/113163851?s=200&v=4" height="50" width="50" />
             </a>
           </td>
           <td align="center">
