@@ -1,6 +1,6 @@
 <p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
-<img src="https://github.com/sijin-raj/sijin-raj/blob/main/Screenshot%202021-12-09%20at%2010-47-43%20sijin-raj%20Portfolio.png"/>
-<!-- <h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1> -->
+<!-- <img src="https://github.com/sijin-raj/sijin-raj/blob/main/Screenshot%202021-12-09%20at%2010-47-43%20sijin-raj%20Portfolio.png"/>
+<!-- <h1 align="center">Hey <img src="https://github.com/sijin-raj/sijin-resume01/blob/main/assets/images/Hi.gif" height="30" width="30" />, I'm Sijin</h1> --> -->
 <p align="center"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sijin-raj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sijin-raj/"  height="30" width="30" /></a>
@@ -64,8 +64,8 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-raj&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
           </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303">
-<!--       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303)](https://git.io/streak-stats) -->
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303">
+<!--       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sijin-raj&theme=dark&hide_border=true&background=120303)](https://git.io/streak-stats) --> -->
     </td>
   </tr>
 </table>
