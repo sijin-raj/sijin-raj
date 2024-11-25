@@ -39,7 +39,7 @@
     <td align="center">
       <img width="120%" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&count_private=true&theme=radical&show_icons=true" />
     </td>
-  </tr>
+ 
   <tr>
           <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijin-raj&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
