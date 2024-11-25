@@ -35,10 +35,7 @@
 <hr />
 
 
-    </td>
-    <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=sijin-raj&count_private=true&theme=radical&show_icons=true" />
-    </td>
+   
  
   <tr>
           <td align="center">
