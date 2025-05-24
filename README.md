@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠 Tech Stack (2025 Focused)
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,firebase,tailwind,figma,mysql,mongodb,docker,aws,vscode,linux" />
