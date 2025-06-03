@@ -20,7 +20,6 @@
 - 🌱 Exploring AI integrations & scalable system design
 - 🚀 Leading technical decisions, infra setup, and product strategy
 - 🛠 I care deeply about **user experience**, **speed**, and **clean code**
-- ⚡ Dream: To uplift my family & build impactful products for the MENA region
 
 ---
 
