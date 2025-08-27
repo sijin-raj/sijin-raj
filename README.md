@@ -5,11 +5,7 @@
   I build scalable, fast, and beautiful products that solve real problems.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sijin-raj/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://www.instagram.com/sijin__raj/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-  <a href="https://dev.to/sijinraj"><img src="https://skillicons.dev/icons?i=devto" height="30" /></a>
-</p>
+
 
 ---
 
@@ -17,7 +13,11 @@
 
 🚀 Building a startup? Need help turning ideas into a product?  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/sijin-raj/) or [Dev.to](https://dev.to/sijinraj)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/sijin-raj/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.instagram.com/sijin__raj/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+  <a href="https://dev.to/sijinraj"><img src="https://skillicons.dev/icons?i=devto" height="30" /></a>
+</p>
 ---
 
 <p align="center">Thanks for visiting! 🙌</p>
