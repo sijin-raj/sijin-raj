@@ -18,6 +18,3 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/sijin-raj/) or [Dev.to
   <a href="https://www.instagram.com/sijin__raj/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
   <a href="https://dev.to/sijinraj"><img src="https://skillicons.dev/icons?i=devto" height="30" /></a>
 </p>
----
-
-<p align="center">Thanks for visiting! 🙌</p>
